@@ -20,11 +20,9 @@ I enjoy learning new things, solving problems, and turning ideas into reality th
 
 ### 🛠️ Technologies & Skills
 
-- Python
-- C
-- C++
-- Java
-- Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github,vscode" />
+</p>
 
 ### 🎯 My Goals
 
